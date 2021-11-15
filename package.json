@@ -1,0 +1,24 @@
+{
+  "name": "BackTest",
+  "version": "1.0.0",
+  "description": "BackTest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RegaladoLeonardo/BackTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RegaladoLeonardo/BackTest/issues"
+  },
+  "homepage": "https://github.com/RegaladoLeonardo/BackTest#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
